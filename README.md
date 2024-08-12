@@ -82,6 +82,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Buz](https://buz.dev/) - Buz collects, validates, and delivers schematized data to where it needs to bee
 - [Benthos](https://github.com/benthosdev/benthos) - Benthos is a high performance and resilient stream processor, able to connect various sources and sinks in a range of brokering patterns and perform hydration, enrichments, transformations and filters on payloads.
 - [Data Caterer](https://github.com/data-catering/data-caterer) - Data Caterer is a test data management tool that can leverage the rich metadata from data contracts to help simulate production-like data and validate your data pipelines
+- [Data Contract Playground](https://data-catering.github.io/data-contract-playground/) - Simple website to create, export and validate data contracts
 - [Schemata](https://github.com/ananthdurai/schemata) - Schemata is a schema modeling framework for decentralized domain-driven ownership of data. Schemata combines a set of standard metadata definitions for each schema & data field and a scoring algorithm to provide a feedback loop on how efficient the data modeling of your data warehouse is.
 
 ## Specifications and Protocols
